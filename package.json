@@ -1,0 +1,30 @@
+{
+  "name": "2letters",
+  "version": "1.0.0",
+  "description": "Convierte números a letras en TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ne2adh/2letters.git"
+  },
+  "keywords": [
+    "\"number\"",
+    "\"letters\"",
+    "\"conversion\"",
+    "\"typescript\""
+  ],
+  "author": "Giancarlo Delgadillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ne2adh/2letters/issues"
+  },
+  "homepage": "https://github.com/ne2adh/2letters#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
